@@ -1,4 +1,4 @@
-# Medical-Image-Segmentation-Utility-DTI-MRI-CT-...,etc.)
+# Medical Image Segmentation Utility (MISU) for DTI MRI CT...,etc.
 This utility is used for segmentation of any image specially medical images. 
 
 ## License
