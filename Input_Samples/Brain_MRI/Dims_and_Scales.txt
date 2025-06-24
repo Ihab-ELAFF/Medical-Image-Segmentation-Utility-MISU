@@ -1,0 +1,7 @@
+X Dim: 256
+Y Dim:256
+Slices: 50
+
+X Scale: 0.9375
+Y Scale: 0.9375
+Z Scale: 2.5000
