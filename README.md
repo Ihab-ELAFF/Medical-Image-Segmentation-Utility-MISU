@@ -1,20 +1,17 @@
 # Medical Image Segmentation Utility (MISU) for DTI MRI CT...,etc.
 This utility is used for segmentation of any image specially medical images. 
 
+## About MISU
+MISU (Medical Image Segmentation Utility) is developed using [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) under the GNU General Public License.  
+It uses [OpenTK](https://github.com/opentk/opentk) for graphics rendering and visualization.
+
 ## License
 This project is licensed under the MIT License for **academic and educational use only**.
 
 ## Acknowledgments
-
-This project makes use of [MRI Studio](https://www.mristudio.org/) tools developed by the Johns Hopkins University Division of MR Research.  
-We gratefully acknowledge their contributions to the neuroimaging community.
-
-If you use their software, please cite:
-
-Jiang H, van Zijl PC, Kim J, Pearlson GD, Mori S.  
-*DTIStudio: resource program for diffusion tensor computation and fiber bundle tracking.*  
-Comput Methods Programs Biomed. 2006 Jul;81(2):106-16.  
-https://doi.org/10.1016/j.cmpb.2005.08.004
+- [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) – IDE used for development (GNU GPL).
+- [OpenTK](https://opentk.net/) – Open Toolkit Library for OpenGL graphics.
+- [MRI Studio](https://www.mristudio.org/) – For dataset samples and diffusion imaging tools.
 
 ## Citation
 If you use MISU software in your research, you must cite the following and add the utlity URL:
