@@ -5,6 +5,8 @@ This utility is used for segmentation of any image specially medical images.
 MISU (Medical Image Segmentation Utility) is developed using [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) under the GNU General Public License.  
 It uses [OpenTK](https://github.com/opentk/opentk) for graphics rendering and visualization.
 
+Demo Video: https://youtu.be/WGa3VTRnlKs
+
 ## License
 This project is licensed under the MIT License for **academic and educational use only**.
 
